@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @victoriagopin
+- 👋 Hi, I’m Victoria Gopin
 - 👀 I’m interested in anything JS related, as I am always trying to learn new things
-- 🌱 I’m currently expanding my skills by learning React, aiming to build dynamic and efficient web applications.
+- 🌱 I’m currently expanding my skills by learning React, aiming to build dynamic and efficient web applications
 - 📫 How to reach me: victoria_gopin@abv.bg
 - 😄 Pronouns: she/her
 
